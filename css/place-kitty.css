@@ -18,7 +18,7 @@ img alt="kitty-2" {
 
 /* Select the image inside the element with an id of basket (using its descendent relationship) */
 
- #basket > alt="kitty 3"{
+ #basket[alt="kitty 3"]{
   position: absolute;
   z-index: 5;
   top: 291px;
